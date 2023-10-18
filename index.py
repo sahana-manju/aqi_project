@@ -52,7 +52,7 @@ st.markdown("""
         <a class="nav-link disabled" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active"">
-        <a class="nav-link" href="https://project1-iask7czzyejqmxy8tfaimn.streamlit.app"  target="_blank">Air Quality Predition</a>
+        <a class="nav-link" href="https://project1-iask7czzyejqmxy8tfaimn.streamlit.app"  target="_blank">Analysis Dshboard</a>
       </li>
       <li class="nav-item active"">
         <a class="nav-link" href="https://twitter.com/thedataprof" target="_blank">Researcher Login</a>
@@ -67,14 +67,7 @@ st.markdown("""
 
 st.markdown(bg_img, unsafe_allow_html=True)
 
-def redirect_to_streamline():
-    # Run the other Streamlit script for the streamline page
-    #st.markdown('Hii')
-    import subprocess
-    subprocess.run(["streamlit", "run", "proj_1.py"])
 
-if st.button('Analysis Dashboard'):
-    redirect_to_streamline()
     
 
 
