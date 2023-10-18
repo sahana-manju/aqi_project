@@ -52,7 +52,7 @@ st.markdown("""
         <a class="nav-link disabled" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active"">
-        <a class="nav-link" href="#" onclick="redirect_to_streamline()" target="_blank">Air Quality Predition</a>
+        <a class="nav-link" href="https://project1-iask7czzyejqmxy8tfaimn.streamlit.app"  target="_blank">Air Quality Predition</a>
       </li>
       <li class="nav-item active"">
         <a class="nav-link" href="https://twitter.com/thedataprof" target="_blank">Researcher Login</a>
