@@ -1,4 +1,4 @@
-# Air Quality Analysis Project
+## Air Quality Analysis Project
 
 # Objective
 This project aims to provide valuable insights into the Air Quality of different regions across the globe, allowing researchers and policymakers to make informed decisions on how to address the issue of air pollution.
