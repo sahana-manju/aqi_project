@@ -11,13 +11,13 @@ Please click on the following streamlit app link to view
 https://aqiproject-dcbypjgtfn7bexqbfcnbin.streamlit.app
 # BreezoScan Home Page
 BreezoScan Home Page 1 has 3 options on the navigation bar.
-1.Home - Provides information about the website.
-2.Analysis Dashboard - Redirects user to the Analysis Dashboard where different operations can be performed.(BreezoScan Analysis Dashboard Page)
-3.Contact us - Allows the user to mail the owner of the website for any queries.
+- Home - Provides information about the website.
+- Analysis Dashboard - Redirects user to the Analysis Dashboard where different operations can be performed.(BreezoScan Analysis Dashboard Page)
+- Contact us - Allows the user to mail the owner of the website for any queries.
 # BreezoScan Analysis Dashboard Page
 BreezoScan Analysis Dashboard Page side bar 2 options.
-1.Go back to Home Page - Takes the user back to the BreezoScan Home page.
-2.Choose your operation drop down menu
+- Go back to Home Page - Takes the user back to the BreezoScan Home page.
+- Choose your operation drop down menu
   - Check Global Statistics - Numerous visualizations to check the air quality index and pollutants spread across the globe.
   - Check Air Quality for desired region - User can choose the country and city of his choice and check the air quality for that region.
   - Learn More about Air Quality Index - User will be provided detailed description about the Air Quality index (AQI).
