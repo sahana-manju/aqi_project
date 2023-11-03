@@ -17,7 +17,7 @@ BreezoScan Home Page 1 has 3 options on the navigation bar.
 # BreezoScan Analysis Dashboard Page
 BreezoScan Analysis Dashboard Page side bar 2 options.
 1.Go back to Home Page - Takes the user back to the BreezoScan Home page.
-2.Choose your operation drop down menu-
+2.Choose your operation drop down menu
   - Check Global Statistics - Numerous visualizations to check the air quality index and pollutants spread across the globe.
   - Check Air Quality for desired region - User can choose the country and city of his choice and check the air quality for that region.
   - Learn More about Air Quality Index - User will be provided detailed description about the Air Quality index (AQI).
